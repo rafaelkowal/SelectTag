@@ -1,0 +1,97 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+html {
+    font-size: 62.5%;
+}
+.wrap {
+    width: 630px;
+    margin: 0 auto;
+}
+.d-nn {display: none !important}
+.cursor {cursor: pointer;}
+.txt-for {
+  vertical-align: top;
+  font-size: 1.2rem;
+}
+.select-option {
+    background-color: #fff;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    border: 1px solid #d5d5d5;
+    color: #555;
+    position: relative;
+    margin-bottom: 20px;
+}
+.btnClose {
+    font-weight: bold;
+    color: #aaa;
+    font-size: 2.5rem;
+    position: absolute;
+    /*top: 50px;*/
+    right: 6px;
+    -moz-transform: scale(1) rotate(45deg);
+    -webkit-transform: scale(1) rotate(45deg);
+    -o-transform: scale(1) rotate(45deg);
+    -ms-transform: scale(1) rotate(45deg);
+    transform: scale(1) rotate(45deg);
+    background-color: #fff;
+    width: 18px;
+    height: 18px;
+    border-radius: 9px;
+    line-height: 17px;
+    text-align: center;
+}
+.select-custom {
+    border-bottom: 1px solid #d5d5d5;
+    padding: 10px 10px 5px;
+    display: block;
+    line-height: 24px;
+}
+.for-add {max-width: 570px;}
+.type-add, .for-add {
+    display: inline-block;
+    color: #c6c6c6;
+    line-height: 10px !important
+}
+.tag-select {
+    padding: 7px 27px 7px 10px;
+    color: #fff;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    display: inline-block;
+    border-radius: 3px;
+    margin: 0 5px 5px;
+    font-weight: bold;
+    position: relative;
+}
+#slcTeam1 .tag-select {background-color: #337777;}
+#slcTeam2 .tag-select {background-color: #773377;}
+#slcTeam3 .tag-select {background-color: #777733;}
+
+.del-tag {
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 2rem;
+    position: absolute;
+    top: 6px;
+    right: 5px;
+    -moz-transform: scale(1) rotate(45deg);
+    -webkit-transform: scale(1) rotate(45deg);
+    -o-transform: scale(1) rotate(45deg);
+    -ms-transform: scale(1) rotate(45deg);
+    transform: scale(1) rotate(45deg);
+}
+.box-select {
+    height: 100px;
+    overflow: auto;
+    border-bottom: 1px solid #d5d5d5;
+}
+.option-item {
+    display: block;
+    padding: 7px 10px;
+    cursor: pointer;
+    font-size: 1.2rem;
+}
+.option-item:hover {background-color: #f7f7f7;}
