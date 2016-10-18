@@ -26,6 +26,6 @@ Dependência: Jquery 2.2
 Exemplo
 -----
 
-[Demo JSFiddle](https://jsfiddle.net/kowal/awy4c7jy/4/)
+[Demo JSFiddle](https://jsfiddle.net/kowal/awy4c7jy/)
 
 ![](static/sample.png)
