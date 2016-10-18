@@ -1,5 +1,7 @@
 # SelectTag
 
+... precisava de um multiplo select no estilo do Google Plus, para adicionar as Turmas com quem um professor compartilha um determinado post. 
+
 Como Utilizar
 -----
 
