@@ -1,7 +1,5 @@
 # SelectTag
 
-![](static/sample.png)
-
 Como Utilizar
 -----
 
@@ -21,4 +19,6 @@ Como Utilizar
 </div>
 ```    
 
-Note: `com.appeaser.imagetransitionlibrary.TransitionImageView` only works with `scaleType="centerCrop"`. This restriction has been inherited from Henning Dodenhof's [CircleImageView](https://github.com/hdodenhof/CircleImageView).
+Dependência: Jquery 2.2
+
+![](static/sample.png)
