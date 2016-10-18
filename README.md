@@ -23,4 +23,9 @@ Como Utilizar
 
 Dependência: Jquery 2.2
 
+Exemplo
+-----
+
+[Demo JSFiddle](https://jsfiddle.net/kowal/awy4c7jy/4/)
+
 ![](static/sample.png)
